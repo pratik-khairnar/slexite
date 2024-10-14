@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-#include <strings.h>
 
 #define USERFILE "users.txt"
 
