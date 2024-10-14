@@ -1,0 +1,37 @@
+Just put in random info here.
+Your project will contain the following funcs.
+
+User Management
+    createUser() - done
+    deleteUser() - done
+    loginUser() - done
+    logoutUser() - done
+
+Post Management
+    addPost()
+    editPost()
+    deletePost()
+    likePost()
+
+Comment Management
+    addComment()
+    deleteComment()
+
+Feed Management
+    displayFeed()
+    sortFeed()
+
+Notification Management
+    addNotification()
+    viewNotifications()
+    clearNotifications()
+
+Search Functionality
+    searchUser()
+    searchPost()
+
+Helper Functions
+    generateID() - DONE
+    getTime() - DONE
+    loadData() - DONE
+    saveData() - 
