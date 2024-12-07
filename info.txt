@@ -21,11 +21,6 @@ Feed Management
     displayFeed()
     sortFeed()
 
-Notification Management
-    addNotification()
-    viewNotifications()
-    clearNotifications()
-
 Search Functionality
     searchUser()
     searchPost()
